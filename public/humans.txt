@@ -1,0 +1,10 @@
+/* TEAM */
+Developer: Motlalepula Sello
+Website: https://lovetestai.com
+Twitter: @lovetestai
+From: South Africa
+
+/* SITE */
+Language: English
+Standards: HTML5, CSS3, Next.js 15, AI integrations
+Software: Hosted on Vercel

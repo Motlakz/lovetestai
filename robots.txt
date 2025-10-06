@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lovetestai.com/sitemap.xml
+
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+Crawl-delay: 10
